@@ -1,0 +1,57 @@
+[
+    {
+        "type": "REGISTRATION_ACCEPT",
+        "state": {
+            "active": true
+        },
+        "timeStamp": "2024-08-12T08:33:09.937721782Z",
+        "subscriptionId": "1",
+        "anyUe": true,
+        "supi": "imsi-208930000000011",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000001"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000010"
+                },
+                "ageOfLocationInformation": -362526908,
+                "ueLocationTimestamp": "2024-08-12T08:33:08.922079858Z"
+            }
+        },
+        "timezone": "+05:30",
+        "accessTypeList": [
+            "3GPP_ACCESS"
+        ],
+        "rmInfoList": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "rmState": "DEREGISTERED",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "cmInfoList": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "cmState": "IDLE",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "subscribedData": {}
+    }
+]

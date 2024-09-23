@@ -1,0 +1,132 @@
+[
+    {
+        "subscriptionId": "4",
+        "supi": "imsi-208930000000012",
+        "timestamp": "2024-08-11T18:50:42.871787879Z",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000002"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000011"
+                },
+                "ageOfLocationInformation": -362576559,
+                "ueLocationTimestamp": "2024-08-11T18:50:42.756497368Z"
+            }
+        },
+        "timezone": "+05:30"
+    },
+    {
+        "subscriptionId": "5",
+        "supi": "imsi-208930000000013",
+        "timestamp": "2024-08-11T18:55:50.871787879Z",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000003"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000012"
+                },
+                "ageOfLocationInformation": -362576559,
+                "ueLocationTimestamp": "2024-08-11T18:55:50.756497368Z"
+            }
+        },
+        "timezone": "+05:30"
+    },
+    {
+        "subscriptionId": "6",
+        "supi": "imsi-208930000000014",
+        "timestamp": "2024-08-11T19:00:10.871787879Z",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000004"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000013"
+                },
+                "ageOfLocationInformation": -362576559,
+                "ueLocationTimestamp": "2024-08-11T19:00:10.756497368Z"
+            }
+        },
+        "timezone": "+05:30"
+    },
+    {
+        "subscriptionId": "7",
+        "supi": "imsi-208930000000015",
+        "timestamp": "2024-08-11T19:05:22.871787879Z",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000005"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000014"
+                },
+                "ageOfLocationInformation": -362576559,
+                "ueLocationTimestamp": "2024-08-11T19:05:22.756497368Z"
+            }
+        },
+        "timezone": "+05:30"
+    },
+    {
+        "subscriptionId": "1",
+        "supi": "imsi-208930000000011",
+        "timestamp": "2024-08-12T08:33:09.937721782Z",
+        "location": {
+            "nrLocation": {
+                "tai": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000001"
+                },
+                "ncgi": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "nrCellId": "000000010"
+                },
+                "ageOfLocationInformation": -362526908,
+                "ueLocationTimestamp": "2024-08-12T08:33:08.922079858Z"
+            }
+        },
+        "timezone": "+05:30"
+    }
+]

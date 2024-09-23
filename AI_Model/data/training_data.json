@@ -1,0 +1,1806 @@
+[
+    {
+        "subscriptionId": "1",
+        "supi": "imsi-208930000000011",
+        "initial_timestamp": "2024-08-12T08:30:00Z",
+        "final_timestamp": "2024-08-12T08:33:09.937721782Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T08:30:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000001",
+                    "nrCellId": "000000010"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T08:33:09.937721782Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000001",
+                    "nrCellId": "000000010"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.05,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "rmState": "DEREGISTERED",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "cmState": "IDLE",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "2",
+        "supi": "imsi-208930000000012",
+        "initial_timestamp": "2024-08-12T09:00:00Z",
+        "final_timestamp": "2024-08-12T09:15:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T09:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000002",
+                    "nrCellId": "000000011"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T09:15:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000002",
+                    "nrCellId": "000000011"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.25,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "rmState": "DEREGISTERED",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            },
+            {
+                "cmState": "IDLE",
+                "accessType": "NON_3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "3",
+        "supi": "imsi-208930000000013",
+        "initial_timestamp": "2024-08-12T10:00:00Z",
+        "final_timestamp": "2024-08-12T10:25:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T10:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000003",
+                    "nrCellId": "000000012"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T10:25:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000004",
+                    "nrCellId": "000000013"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.42,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "4",
+        "supi": "imsi-208930000000014",
+        "initial_timestamp": "2024-08-12T11:00:00Z",
+        "final_timestamp": "2024-08-12T11:45:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T11:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000005",
+                    "nrCellId": "000000014"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T11:45:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000006",
+                    "nrCellId": "000000015"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.75,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "fraudulent"
+    },
+    {
+        "subscriptionId": "5",
+        "supi": "imsi-208930000000015",
+        "initial_timestamp": "2024-08-12T12:00:00Z",
+        "final_timestamp": "2024-08-12T12:20:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T12:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000007",
+                    "nrCellId": "000000016"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T12:20:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000007",
+                    "nrCellId": "000000016"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.33,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "6",
+        "supi": "imsi-208930000000016",
+        "initial_timestamp": "2024-08-12T13:00:00Z",
+        "final_timestamp": "2024-08-12T13:30:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T13:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000008",
+                    "nrCellId": "000000017"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T13:30:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000009",
+                    "nrCellId": "000000018"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.5,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "7",
+        "supi": "imsi-208930000000017",
+        "initial_timestamp": "2024-08-12T14:00:00Z",
+        "final_timestamp": "2024-08-12T14:10:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T14:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000010",
+                    "nrCellId": "000000019"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T14:10:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000011",
+                    "nrCellId": "000000020"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.17,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "fraudulent"
+    },
+    {
+        "subscriptionId": "8",
+        "supi": "imsi-208930000000018",
+        "initial_timestamp": "2024-08-12T15:00:00Z",
+        "final_timestamp": "2024-08-12T15:20:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T15:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000012",
+                    "nrCellId": "000000021"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T15:20:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000012",
+                    "nrCellId": "000000021"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.33,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "9",
+        "supi": "imsi-208930000000019",
+        "initial_timestamp": "2024-08-12T16:00:00Z",
+        "final_timestamp": "2024-08-12T16:50:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T16:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000013",
+                    "nrCellId": "000000022"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T16:50:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000014",
+                    "nrCellId": "000000023"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.83,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "fraudulent"
+    },
+    {
+        "subscriptionId": "10",
+        "supi": "imsi-208930000000020",
+        "initial_timestamp": "2024-08-12T17:00:00Z",
+        "final_timestamp": "2024-08-12T17:30:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T17:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000015",
+                    "nrCellId": "000000024"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T17:30:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000016",
+                    "nrCellId": "000000025"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.5,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "11",
+        "supi": "imsi-208930000000021",
+        "initial_timestamp": "2024-08-12T18:00:00Z",
+        "final_timestamp": "2024-08-12T18:40:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T18:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000017",
+                    "nrCellId": "000000026"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T18:40:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000018",
+                    "nrCellId": "000000027"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.67,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "12",
+        "supi": "imsi-208930000000022",
+        "initial_timestamp": "2024-08-12T19:00:00Z",
+        "final_timestamp": "2024-08-12T19:30:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T19:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000019",
+                    "nrCellId": "000000028"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T19:30:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000020",
+                    "nrCellId": "000000029"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.5,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "fraudulent"
+    },{
+        "subscriptionId": "13",
+        "supi": "imsi-208930000000023",
+        "initial_timestamp": "2024-08-12T20:00:00Z",
+        "final_timestamp": "2024-08-12T20:25:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T20:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000021",
+                    "nrCellId": "000000030"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T20:25:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000022",
+                    "nrCellId": "000000031"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.42,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    },
+    {
+        "subscriptionId": "14",
+        "supi": "imsi-208930000000024",
+        "initial_timestamp": "2024-08-12T21:00:00Z",
+        "final_timestamp": "2024-08-12T21:10:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T21:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000023",
+                    "nrCellId": "000000032"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T21:10:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000024",
+                    "nrCellId": "000000033"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.17,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "fraudulent"
+    },{
+        "subscriptionId": "15",
+        "supi": "imsi-208930000000025",
+        "initial_timestamp": "2024-08-12T22:00:00Z",
+        "final_timestamp": "2024-08-12T22:20:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-12T22:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000025",
+                    "nrCellId": "000000034"
+                }
+            },
+            {
+                "timestamp": "2024-08-12T22:20:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000025",
+                    "nrCellId": "000000034"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.33,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    }
+,{
+    "subscriptionId": "16",
+    "supi": "imsi-208930000000026",
+    "initial_timestamp": "2024-08-12T23:00:00Z",
+    "final_timestamp": "2024-08-12T23:30:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-12T23:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000026",
+                "nrCellId": "000000035"
+            }
+        },
+        {
+            "timestamp": "2024-08-12T23:30:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000027",
+                "nrCellId": "000000036"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.5,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+, {
+    "subscriptionId": "17",
+    "supi": "imsi-208930000000027",
+    "initial_timestamp": "2024-08-13T00:00:00Z",
+    "final_timestamp": "2024-08-13T00:20:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T00:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000028",
+                "nrCellId": "000000037"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T00:20:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000029",
+                "nrCellId": "000000038"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.33,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "18",
+    "supi": "imsi-208930000000028",
+    "initial_timestamp": "2024-08-13T01:00:00Z",
+    "final_timestamp": "2024-08-13T01:45:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T01:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000030",
+                "nrCellId": "000000039"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T01:45:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000031",
+                "nrCellId": "000000040"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.75,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "18",
+    "supi": "imsi-208930000000028",
+    "initial_timestamp": "2024-08-13T01:00:00Z",
+    "final_timestamp": "2024-08-13T01:45:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T01:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000030",
+                "nrCellId": "000000039"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T01:45:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000031",
+                "nrCellId": "000000040"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.75,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "20",
+    "supi": "imsi-208930000000030",
+    "initial_timestamp": "2024-08-13T03:00:00Z",
+    "final_timestamp": "2024-08-13T03:10:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T03:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000034",
+                "nrCellId": "000000043"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T03:10:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000035",
+                "nrCellId": "000000044"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.17,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+},{
+    "subscriptionId": "30",
+    "supi": "imsi-208930000000040",
+    "initial_timestamp": "2024-08-13T13:00:00Z",
+    "final_timestamp": "2024-08-13T13:40:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T13:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000054",
+                "nrCellId": "000000063"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T13:40:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000055",
+                "nrCellId": "000000064"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.67,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "29",
+    "supi": "imsi-208930000000039",
+    "initial_timestamp": "2024-08-13T12:00:00Z",
+    "final_timestamp": "2024-08-13T12:30:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T12:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000052",
+                "nrCellId": "000000061"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T12:30:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000053",
+                "nrCellId": "000000062"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.5,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "28",
+    "supi": "imsi-208930000000038",
+    "initial_timestamp": "2024-08-13T11:00:00Z",
+    "final_timestamp": "2024-08-13T11:25:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T11:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000050",
+                "nrCellId": "000000059"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T11:25:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000051",
+                "nrCellId": "000000060"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.42,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "27",
+    "supi": "imsi-208930000000037",
+    "initial_timestamp": "2024-08-13T10:00:00Z",
+    "final_timestamp": "2024-08-13T10:50:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T10:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000048",
+                "nrCellId": "000000057"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T10:50:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000049",
+                "nrCellId": "000000058"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.83,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "26",
+    "supi": "imsi-208930000000036",
+    "initial_timestamp": "2024-08-13T09:00:00Z",
+    "final_timestamp": "2024-08-13T09:20:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T09:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000046",
+                "nrCellId": "000000055"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T09:20:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000047",
+                "nrCellId": "000000056"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.33,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "25",
+    "supi": "imsi-208930000000035",
+    "initial_timestamp": "2024-08-13T08:00:00Z",
+    "final_timestamp": "2024-08-13T08:50:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T08:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000044",
+                "nrCellId": "000000053"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T08:50:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000045",
+                "nrCellId": "000000054"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.83,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "24",
+    "supi": "imsi-208930000000034",
+    "initial_timestamp": "2024-08-13T07:00:00Z",
+    "final_timestamp": "2024-08-13T07:40:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T07:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000042",
+                "nrCellId": "000000051"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T07:40:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000043",
+                "nrCellId": "000000052"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.67,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+
+    ,{
+        "subscriptionId": "23",
+        "supi": "imsi-208930000000033",
+        "initial_timestamp": "2024-08-13T06:00:00Z",
+        "final_timestamp": "2024-08-13T06:20:00Z",
+        "location_changes": [
+            {
+                "timestamp": "2024-08-13T06:00:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000040",
+                    "nrCellId": "000000049"
+                }
+            },
+            {
+                "timestamp": "2024-08-13T06:20:00Z",
+                "location": {
+                    "plmnId": {
+                        "mcc": "208",
+                        "mnc": "93"
+                    },
+                    "tac": "000041",
+                    "nrCellId": "000000050"
+                }
+            }
+        ],
+        "total_location_changes": 2,
+        "time_difference": 0.33,
+        "timezone": "+05:30",
+        "access_type_list": ["3GPP_ACCESS"],
+        "rm_info_list": [
+            {
+                "rmState": "REGISTERED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "cm_info_list": [
+            {
+                "cmState": "CONNECTED",
+                "accessType": "3GPP_ACCESS"
+            }
+        ],
+        "label": "non_fraudulent"
+    }
+   ,{
+    "subscriptionId": "22",
+    "supi": "imsi-208930000000032",
+    "initial_timestamp": "2024-08-13T05:00:00Z",
+    "final_timestamp": "2024-08-13T05:15:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T05:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000038",
+                "nrCellId": "000000047"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T05:15:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000039",
+                "nrCellId": "000000048"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.25,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "21",
+    "supi": "imsi-208930000000031",
+    "initial_timestamp": "2024-08-13T04:00:00Z",
+    "final_timestamp": "2024-08-13T04:30:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T04:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000036",
+                "nrCellId": "000000045"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T04:30:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000037",
+                "nrCellId": "000000046"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.5,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+},{
+    "subscriptionId": "31",
+    "supi": "imsi-208930000000041",
+    "initial_timestamp": "2024-08-13T14:00:00Z",
+    "final_timestamp": "2024-08-13T14:25:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T14:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000056",
+                "nrCellId": "000000065"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T14:25:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000057",
+                "nrCellId": "000000066"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.42,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "32",
+    "supi": "imsi-208930000000042",
+    "initial_timestamp": "2024-08-13T15:00:00Z",
+    "final_timestamp": "2024-08-13T15:35:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T15:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000058",
+                "nrCellId": "000000067"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T15:35:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000059",
+                "nrCellId": "000000068"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.58,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "33",
+    "supi": "imsi-208930000000043",
+    "initial_timestamp": "2024-08-13T16:00:00Z",
+    "final_timestamp": "2024-08-13T16:30:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T16:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000060",
+                "nrCellId": "000000069"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T16:30:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000061",
+                "nrCellId": "000000070"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.5,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "34",
+    "supi": "imsi-208930000000044",
+    "initial_timestamp": "2024-08-13T17:00:00Z",
+    "final_timestamp": "2024-08-13T17:45:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T17:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000062",
+                "nrCellId": "000000071"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T17:45:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000063",
+                "nrCellId": "000000072"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.75,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent"
+}
+,{
+    "subscriptionId": "35",
+    "supi": "imsi-208930000000045",
+    "initial_timestamp": "2024-08-13T18:00:00Z",
+    "final_timestamp": "2024-08-13T18:55:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T18:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000064",
+                "nrCellId": "000000073"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T18:55:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000065",
+                "nrCellId": "000000074"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.92,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent"
+}
+,{
+    "subscriptionId": "36",
+    "supi": "imsi-208930000000046",
+    "initial_timestamp": "2024-08-13T19:00:00Z",
+    "final_timestamp": "2024-08-13T19:25:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T19:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000066",
+                "nrCellId": "000000075"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T19:25:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000067",
+                "nrCellId": "000000076"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.42,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent",
+    "feedback_timestamp": "2024-08-13T19:30:00Z"
+},{
+    "subscriptionId": "37",
+    "supi": "imsi-208930000000047",
+    "initial_timestamp": "2024-08-13T20:00:00Z",
+    "final_timestamp": "2024-08-13T20:15:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T20:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000068",
+                "nrCellId": "000000077"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T20:15:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000069",
+                "nrCellId": "000000078"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.25,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "fraudulent",
+    "feedback_timestamp": "2024-08-13T20:20:00Z"
+}
+,{
+    "subscriptionId": "38",
+    "supi": "imsi-208930000000048",
+    "initial_timestamp": "2024-08-13T21:00:00Z",
+    "final_timestamp": "2024-08-13T21:45:00Z",
+    "location_changes": [
+        {
+            "timestamp": "2024-08-13T21:00:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000070",
+                "nrCellId": "000000079"
+            }
+        },
+        {
+            "timestamp": "2024-08-13T21:45:00Z",
+            "location": {
+                "plmnId": {
+                    "mcc": "208",
+                    "mnc": "93"
+                },
+                "tac": "000071",
+                "nrCellId": "000000080"
+            }
+        }
+    ],
+    "total_location_changes": 2,
+    "time_difference": 0.75,
+    "timezone": "+05:30",
+    "access_type_list": ["3GPP_ACCESS"],
+    "rm_info_list": [
+        {
+            "rmState": "REGISTERED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "cm_info_list": [
+        {
+            "cmState": "CONNECTED",
+            "accessType": "3GPP_ACCESS"
+        }
+    ],
+    "label": "non_fraudulent",
+    "feedback_timestamp": "2024-08-13T22:00:00Z"
+}
+
+
+ 
+]
