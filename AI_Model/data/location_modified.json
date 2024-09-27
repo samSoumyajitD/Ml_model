@@ -1,0 +1,188 @@
+[
+    {
+        "location_nrLocation_tai_plmnId_mcc": "123",
+        "location_nrLocation_tai_plmnId_mnc": "456",
+        "location_nrLocation_tai_tac": "789",
+        "location_nrLocation_ncgi_plmnId_mcc": "123",
+        "location_nrLocation_ncgi_plmnId_mnc": "456",
+        "location_nrLocation_ncgi_nrCellId": "1",
+        "location_ageOfLocationInformation": 10,
+        "location_ueLocationTimestamp": "2024-09-27T12:00:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "987",
+        "location_nrLocation_tai_plmnId_mnc": "654",
+        "location_nrLocation_tai_tac": "321",
+        "location_nrLocation_ncgi_plmnId_mcc": "987",
+        "location_nrLocation_ncgi_plmnId_mnc": "654",
+        "location_nrLocation_ncgi_nrCellId": "2",
+        "location_ageOfLocationInformation": 5,
+        "location_ueLocationTimestamp": "2024-09-27T12:01:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "123",
+        "location_nrLocation_tai_plmnId_mnc": "456",
+        "location_nrLocation_tai_tac": "789",
+        "location_nrLocation_ncgi_plmnId_mcc": "123",
+        "location_nrLocation_ncgi_plmnId_mnc": "456",
+        "location_nrLocation_ncgi_nrCellId": "3",
+        "location_ageOfLocationInformation": 12,
+        "location_ueLocationTimestamp": "2024-09-27T12:02:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "234",
+        "location_nrLocation_tai_plmnId_mnc": "567",
+        "location_nrLocation_tai_tac": "890",
+        "location_nrLocation_ncgi_plmnId_mcc": "234",
+        "location_nrLocation_ncgi_plmnId_mnc": "567",
+        "location_nrLocation_ncgi_nrCellId": "4",
+        "location_ageOfLocationInformation": 3,
+        "location_ueLocationTimestamp": "2024-09-27T12:03:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "345",
+        "location_nrLocation_tai_plmnId_mnc": "678",
+        "location_nrLocation_tai_tac": "901",
+        "location_nrLocation_ncgi_plmnId_mcc": "345",
+        "location_nrLocation_ncgi_plmnId_mnc": "678",
+        "location_nrLocation_ncgi_nrCellId": "5",
+        "location_ageOfLocationInformation": 15,
+        "location_ueLocationTimestamp": "2024-09-27T12:04:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "456",
+        "location_nrLocation_tai_plmnId_mnc": "789",
+        "location_nrLocation_tai_tac": "012",
+        "location_nrLocation_ncgi_plmnId_mcc": "456",
+        "location_nrLocation_ncgi_plmnId_mnc": "789",
+        "location_nrLocation_ncgi_nrCellId": "6",
+        "location_ageOfLocationInformation": 1,
+        "location_ueLocationTimestamp": "2024-09-27T12:05:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "567",
+        "location_nrLocation_tai_plmnId_mnc": "890",
+        "location_nrLocation_tai_tac": "123",
+        "location_nrLocation_ncgi_plmnId_mcc": "567",
+        "location_nrLocation_ncgi_plmnId_mnc": "890",
+        "location_nrLocation_ncgi_nrCellId": "7",
+        "location_ageOfLocationInformation": 20,
+        "location_ueLocationTimestamp": "2024-09-27T12:06:00Z",
+        "label": 0
+    }, {
+        "location_nrLocation_tai_plmnId_mcc": "234",
+        "location_nrLocation_tai_plmnId_mnc": "678",
+        "location_nrLocation_tai_tac": "345",
+        "location_nrLocation_ncgi_plmnId_mcc": "234",
+        "location_nrLocation_ncgi_plmnId_mnc": "678",
+        "location_nrLocation_ncgi_nrCellId": "8",
+        "location_ageOfLocationInformation": 4,
+        "location_ueLocationTimestamp": "2024-09-27T12:07:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "876",
+        "location_nrLocation_tai_plmnId_mnc": "543",
+        "location_nrLocation_tai_tac": "210",
+        "location_nrLocation_ncgi_plmnId_mcc": "876",
+        "location_nrLocation_ncgi_plmnId_mnc": "543",
+        "location_nrLocation_ncgi_nrCellId": "9",
+        "location_ageOfLocationInformation": 15,
+        "location_ueLocationTimestamp": "2024-09-27T12:08:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "345",
+        "location_nrLocation_tai_plmnId_mnc": "123",
+        "location_nrLocation_tai_tac": "678",
+        "location_nrLocation_ncgi_plmnId_mcc": "345",
+        "location_nrLocation_ncgi_plmnId_mnc": "123",
+        "location_nrLocation_ncgi_nrCellId": "10",
+        "location_ageOfLocationInformation": 11,
+        "location_ueLocationTimestamp": "2024-09-27T12:09:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "654",
+        "location_nrLocation_tai_plmnId_mnc": "321",
+        "location_nrLocation_tai_tac": "987",
+        "location_nrLocation_ncgi_plmnId_mcc": "654",
+        "location_nrLocation_ncgi_plmnId_mnc": "321",
+        "location_nrLocation_ncgi_nrCellId": "11",
+        "location_ageOfLocationInformation": 5,
+        "location_ueLocationTimestamp": "2024-09-27T12:10:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "123",
+        "location_nrLocation_tai_plmnId_mnc": "456",
+        "location_nrLocation_tai_tac": "333",
+        "location_nrLocation_ncgi_plmnId_mcc": "123",
+        "location_nrLocation_ncgi_plmnId_mnc": "456",
+        "location_nrLocation_ncgi_nrCellId": "12",
+        "location_ageOfLocationInformation": 9,
+        "location_ueLocationTimestamp": "2024-09-27T12:11:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "432",
+        "location_nrLocation_tai_plmnId_mnc": "567",
+        "location_nrLocation_tai_tac": "876",
+        "location_nrLocation_ncgi_plmnId_mcc": "432",
+        "location_nrLocation_ncgi_plmnId_mnc": "567",
+        "location_nrLocation_ncgi_nrCellId": "13",
+        "location_ageOfLocationInformation": 2,
+        "location_ueLocationTimestamp": "2024-09-27T12:12:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "678",
+        "location_nrLocation_tai_plmnId_mnc": "345",
+        "location_nrLocation_tai_tac": "543",
+        "location_nrLocation_ncgi_plmnId_mcc": "678",
+        "location_nrLocation_ncgi_plmnId_mnc": "345",
+        "location_nrLocation_ncgi_nrCellId": "14",
+        "location_ageOfLocationInformation": 3,
+        "location_ueLocationTimestamp": "2024-09-27T12:13:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "890",
+        "location_nrLocation_tai_plmnId_mnc": "567",
+        "location_nrLocation_tai_tac": "654",
+        "location_nrLocation_ncgi_plmnId_mcc": "890",
+        "location_nrLocation_ncgi_plmnId_mnc": "567",
+        "location_nrLocation_ncgi_nrCellId": "15",
+        "location_ageOfLocationInformation": 8,
+        "location_ueLocationTimestamp": "2024-09-27T12:14:00Z",
+        "label": 0
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "210",
+        "location_nrLocation_tai_plmnId_mnc": "987",
+        "location_nrLocation_tai_tac": "321",
+        "location_nrLocation_ncgi_plmnId_mcc": "210",
+        "location_nrLocation_ncgi_plmnId_mnc": "987",
+        "location_nrLocation_ncgi_nrCellId": "16",
+        "location_ageOfLocationInformation": 20,
+        "location_ueLocationTimestamp": "2024-09-27T12:15:00Z",
+        "label": 1
+    },
+    {
+        "location_nrLocation_tai_plmnId_mcc": "543",
+        "location_nrLocation_tai_plmnId_mnc": "210",
+        "location_nrLocation_tai_tac": "876",
+        "location_nrLocation_ncgi_plmnId_mcc": "543",
+        "location_nrLocation_ncgi_plmnId_mnc": "210",
+        "location_nrLocation_ncgi_nrCellId": "17",
+        "location_ageOfLocationInformation": 4,
+        "location_ueLocationTimestamp": "2024-09-27T12:16:00Z",
+        "label": 0
+    }
+]
